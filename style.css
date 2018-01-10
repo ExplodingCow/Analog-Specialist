@@ -38,6 +38,11 @@ a {
 	margin: 10px;
 }
 
+a:hover {
+	text-decoration: underline;
+	font-size: 1.1em;
+}
+
 p {
 	font-size: 27px;
 	font-family: "Courier New", Cournier, sans-serif;
