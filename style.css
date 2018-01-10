@@ -1,0 +1,45 @@
+body {
+	background-color: rgb(232,232,232)
+}
+
+#main {
+	background-color: white;
+	margin: 10px 100px 100px 100px;
+	border: 3px double;
+	text-align: center;
+	font-family: "Courier New", Cournier, sans-serif;
+}
+
+#logo {
+	margin-top: 10px; 
+	margin-bottom: 20px; 
+	width: 250px;
+}
+
+#menu {
+	border-top: solid 3px;
+	border-bottom: solid 1px;
+	font-size: 30px;
+	padding: 7px;
+	display: inline-block;
+	margin-bottom: 30px;
+}
+
+li {
+    list-style-type: none;
+    margin: 0;
+    padding: 10px 25px 10px 25px;
+    text-align: center;
+}
+
+a {
+	text-decoration: none;
+	color: grey;
+	margin: 10px;
+}
+
+p {
+	font-size: 30px;
+	font-family: "Courier New", Cournier, sans-serif;
+	padding: 0px 200px 0px 200px;
+}
